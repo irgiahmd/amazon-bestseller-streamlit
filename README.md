@@ -8,20 +8,33 @@ This project showcases data analysis on bestselling books based on user ratings,
 Filter books by year and genre
 
 Visualize:
+
 Book distribution by genre
+
 Rating and review distributions
+
 Average price per genre
+
 Top-rated and most-reviewed books
+
 Author popularity
+
 Correlation between rating, review, and price
+
 Dynamic interpretation of filtered data
+
 Interactive charts with Plotly & Seaborn
 
 🛠️ Tech Stack
+
 Python
+
 Streamlit
+
 Pandas
+
 Seaborn & Matplotlib
+
 Plotly
 
 📁 How to Run Locally
