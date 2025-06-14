@@ -30,7 +30,7 @@ Clone this repo:
 bash
 Salin
 Edit
-git clone https://github.com/yourusername/amazon-bestseller-streamlit.git
+git clone https://github.com/irgiahmd/amazon-bestseller-streamlit.git
 cd amazon-bestseller-streamlit
 Install required packages:
 
